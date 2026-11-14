@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SIRANTING</string>
+
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="choose_language">Pilih bahasa yang diinginkan</string>
+    <string name="indonesian">Bahasa Indonesia</string>
+    <string name="english">English</string>
+    <string name="medical_system">Medical Screening System</string>
+
+    <string name="app_description">
+        Sistem Skrining Risiko Stunting untuk Ibu Hamil dan Balita
+    </string>
+
+    <string name="application_benefits">Manfaat Aplikasi</string>
+
+    <string name="benefit_1">
+        ✓ Membantu identifikasi dini risiko stunting
+    </string>
+
+    <string name="benefit_2">
+        ✓ Mendukung pemantauan kesehatan ibu dan balita
+    </string>
+
+    <string name="benefit_3">
+        ✓ Memberikan hasil skrining secara cepat dan mudah
+    </string>
+
+    <string name="how_to_use">Cara Penggunaan</string>
+
+    <string name="step_1">1. Login ke aplikasi</string>
+    <string name="step_2">2. Pilih layanan skrining</string>
+    <string name="step_3">3. Isi formulir sesuai kondisi</string>
+    <string name="step_4">4. Lihat hasil analisis risiko</string>
+
+    <string name="start_now">MULAI SEKARANG</string>
+</resources>

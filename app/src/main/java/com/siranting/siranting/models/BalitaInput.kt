@@ -1,0 +1,45 @@
+package com.siranting.siranting.models
+
+data class BalitaInput(
+    // IDENTITAS
+    val namaIbu: String = "",
+    val usiaMenikah: String = "",
+    val jumlahAnak: String = "",
+    val namaAnak: String = "",
+    val anakKe: String = "",
+
+    // RISIKO IBU & BALITA
+    val ageRisk: Int = 0,
+    val education: Int = 0,
+    val income: Int = 0,
+    val childGender: Int = 0,
+    val kiaBook: Int = 0,
+    val jkn: Int = 0,
+    val birthHistory: Int = 0,
+    val kek: Int = 0,
+    val anc: Int = 0,
+    val feTablet: Int = 0,
+    val smokingExposure: Int = 0,
+    val toilet: Double = 0.0,
+    val cleanWater: Double = 0.0,
+    val homeEnvironment: Double = 0.0,
+    val drinkingWater: Double = 0.0,
+    val tinggiBadan: Double = 0.0,
+    val tbu: Int = 0,
+    val bbu: Int = 0,
+    val birthWeightRisk: Int = 0,
+    val exclusiveBreastfeeding: Int = 0,
+    val shortBirthLength: Int = 0,
+    val kenaikanberat: Int = 0,
+    val timbangbalita: Int = 0,
+    val ukurpanjang: Int = 0,
+    val immunization: Int = 0,
+    val vitaminA: Int = 0,
+    val ispa: Int = 0,
+    val pneumonia: Int = 0,
+    val diarrhea: Int = 0,
+    val rawatinap: Int = 0,
+    val sleepHabit: Int = 0,
+    val diet: Int = 0,
+    val usiabayi: Int = 0
+)

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SIRANTING</string>
+
+    <string name="select_language">Select Language</string>
+    <string name="choose_language">Choose your preferred language</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="english">English</string>
+    <string name="medical_system">Medical Screening System</string>
+
+    <string name="app_description">
+    Stunting Risk Screening System for Pregnant Women and Toddlers
+
+    </string>
+
+        <string name="application_benefits">
+        Application Benefits
+    </string>
+
+        <string name="benefit_1">
+        ✓ Helps early identification of stunting risk
+    </string>
+
+        <string name="benefit_2">
+        ✓ Supports maternal and child health monitoring
+    </string>
+
+        <string name="benefit_3">
+        ✓ Provides fast and easy screening results
+    </string>
+
+        <string name="how_to_use">
+        How to Use
+    </string>
+
+        <string name="step_1">
+        1. Login to the application
+    </string>
+
+        <string name="step_2">
+        2. Select the screening service
+    </string>
+
+        <string name="step_3">
+        3. Fill out the form according to the condition
+    </string>
+
+        <string name="step_4">
+        4. View the risk analysis results
+    </string>
+
+        <string name="start_now">
+        GET STARTED
+    </string>
+</resources>
